@@ -1,0 +1,9 @@
+<div class="container">
+		
+		{{ range .Pages.ByWeight }}	
+		<section>	
+			<h1 {{with .Params.isTitle }} style="font-size: 12em;" {{ end }}>{{ .Params.Title }}</h1>
+			{{ .Content }}
+		</section>
+		{{ end }}
+</div>

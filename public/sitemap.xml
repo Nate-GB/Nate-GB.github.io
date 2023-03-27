@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/homepage/</loc>
+    <loc>https://nategb.com/homepage/</loc>
     <lastmod>2023-03-27T16:11:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://nategb.com/about/</loc>
     <lastmod>2023-03-27T16:12:04-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/resume/</loc>
+    <loc>https://nategb.com/resume/</loc>
     <lastmod>2023-03-27T16:11:55-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://nategb.com/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://nategb.com/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://nategb.com/tags/</loc>
   </url>
 </urlset>

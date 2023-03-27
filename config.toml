@@ -1,0 +1,17 @@
+baseURL = 'https://nategb.com/'
+languageCode = 'en-us'
+title = 'NateGB Digital Resume'
+
+[params]
+	name = "Nathan Gerard-Bowen"
+	logoText = "cd home"
+	logoLink = "/"
+	githubURL = "https://github.com/Nate-GB/"
+	linkedinURL = "https://www.linkedin.com/in/nathan-gb/"
+	twitterURL = "https://twitter.com/gigabowen/"
+
+[menu]
+[[menu.main]]
+	name = 'garden'
+	url = 'https://garden.nategb.com/'
+
