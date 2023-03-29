@@ -1,3 +1,7 @@
+html {
+	bix-sizing: border-box;
+}
+
 a {
 	color: var(--text-color);
 }
@@ -13,19 +17,22 @@ body {
 	--nav-color: #fafafa;
 	--transition-delay: 1s;
 	--title-heading: 7em;
+	background-color: var(--background-color);
 
 	transition: var(--transition-delay);
-	width: 100%;
-	height: 80vh;
+	min-height: 100%;
 	margin: 0;
-	z-index: 1;
-	background-color: var(--background-color);
-	font-family: monospace;
-	
+	box-sizing: inherit;
 
 	.container {
-		width: 100%;
-		height: 100%;
+		max-width: 100vw;
+		height: 85vh;
+	
+		z-index: 1;
+		background-color: var(--background-color);
+		font-family: monospace;
+		max-width: 100vw;
+
 		scroll-snap-type: y mandatory;
 		overflow-y: scroll;
 		-ms-overflow-style: none;
@@ -39,18 +46,23 @@ body {
 			display: flex;
 			flex-direction: column;
 			align-items: center;
-			width: 100%;
-			height: 100%;
+			max-width: 100%;
+			min-height: 100vh;
 			scroll-snap-align: start;
 			z-index: 1;
 			color: var(--text-color);
 			transition: var(--transition-delay);
+			padding: 0 0 20vh 0;
+			margin-bottom: 20vh;
 
 			h1 {
 				font-family: monospace;
 				font-size: 3em;
 			}
 		}
+
+		margin: 0 0 -132px;
+		padding: 0 100px;
 	}
 
 	.container::-webkit-scrollbar {
@@ -71,9 +83,10 @@ body.dark {
 }
 
 .footer {
+		height: 18;
 		display: flex;
-		flex-direction: row;
-		justify-content: center;
+		flex-direction: column;
+		justify-content: bottom;
 		align-items: center;
 		width: 100%;
 		background-color: var(--background-color);
@@ -81,6 +94,16 @@ body.dark {
 		font-size: 1em;
 		color: var(--text-color);
 		transition: var(--transition-delay);
+		scroll-snap-stop: always;
+		scroll-snap-align: end;
+		position: relative;
+		margin: 0;
+		
+
+		hr {
+			width: 99%;
+		}
+
 	}
 
 .menu {
@@ -198,10 +221,6 @@ body.dark {
 }
 
 .social-icon {
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-	justify-content: center;
 	fill: var(--text-color);
 	transition: var(--transition-delay);
 	height: 3rem;
@@ -210,7 +229,6 @@ body.dark {
 
 .socials {
 	display: flex;
-	justify-content: center;
 	margin-bottom: 2rem;
 	margin-top: 1rem;
 	gap: 2rem;
