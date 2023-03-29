@@ -94,8 +94,6 @@ body.dark {
 		font-size: 1em;
 		color: var(--text-color);
 		transition: var(--transition-delay);
-		scroll-snap-stop: always;
-		scroll-snap-align: end;
 		position: relative;
 		margin: 0;
 		
