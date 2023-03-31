@@ -1,9 +1,12 @@
 <div class="container">
 		
 		{{ range .Pages.ByWeight }}	
-		<section {{with .Params.isTitle }} style="height: 100vh;" {{ end }}>	
+		<section {{with .Params.isTitle }} style="height: 100vh;" {{ end }} >
 			<h1 {{with .Params.isTitle }} style="font-size: 10em;" {{ end }}>{{ .Params.Title }}</h1>
+			<div {{with .Params.isResume }} class="resume" {{ end }}>
 			{{ .Content }}
+			</div>
+			{{with .Params.isResume }}<button onclick="Convert_HTML_To_PDF()">Download Resume</button> {{ end }}
 		</section>
 		{{ end }}
 </div>

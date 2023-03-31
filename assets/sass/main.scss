@@ -2,8 +2,17 @@ html {
 	box-sizing: border-box;
 }
 
+li {
+	font-size: 16px;
+}
+
+hr {
+	width: 75%;
+}
+
 a {
 	color: var(--text-color);
+	transition: var(--transition-delay);
 }
 
 p {
@@ -230,4 +239,12 @@ body.dark {
 	margin-bottom: 2rem;
 	margin-top: 1rem;
 	gap: 2rem;
+}
+
+.resume {
+	margin: 0 15vw;
+
+	p {
+		font-size: 16px;
+	}
 }

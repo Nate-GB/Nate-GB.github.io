@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "fb61b44739969cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2544a49ccfc919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df00eab415dd3f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a875255710c85d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fc7b3918fbfe5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e523a9f17c225c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0da94d6a3823d08e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6fc0507d689e5a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "456095b342c8e2f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "792d8ad13af63d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "287e52a4e6a5e133",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "resume.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66ddfe690e84309b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "resume.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d147c5b6ce01bf6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "248579eec249d58e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "resume.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df00eab415dd3f5f",
+  "lastOpenFiles": [
+    "homepage.md",
+    "about.md",
+    "images/CompTIA_CIOS.png",
+    "resume.md",
+    "images/CIOS.md",
+    "images/CompTIA_CSIS.png",
+    "images/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png",
+    "images"
+  ]
+}

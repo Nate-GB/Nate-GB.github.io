@@ -2,17 +2,45 @@
 title: "Resume"
 date: 2023-03-27T16:11:55-05:00
 weight: 3
-isEnd: true
+isResume: true
 ---
+# Nathan Gerard-Bowen
+nathangerardbowen@gmail.com | Murfreesboro, TN | https://www.linkedin.com/in/nathan-gb/
+
+---
+## Professional Profile
+
+CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 years of experience in a hyrbid-cloud environment.  Skilled in efficient troubleshooting and effective communication.  Consistently commended for creative problemsolving and a willingness to go above and beyond.
+
+## Professional Experience
+- **IT Specialist** @ *Rutherford County Library System* | Smyrna, TN (July 2021 - Present)
+	- Shifted 15 public-access machines from an internal domain network to a local workgroup for isolation and security purposes
+	- Researched and implemented a Spiceworks internal ticketing and inventory management system that is heavily utilized across 5 geographically distinct locations
+	- Acquired and installed upgraded computer hardware to reduce computer boot times by half, drastically increasing availability of public resources for the community
+	- Designed and developed an automated script to enable staff to easily resolve public printing issues with the click of a button
+	- Implemented a cloud-printing solution to allows patrons to submit print jobs from off-site and pick them up from one of 3 locations
+
+- **IT Administrator** @ *MaxSteel Buildings, LLC* | Murfreesboro, TN (June 2020 - July 2021)
+	- Established and maintained a VoIP network by researching, purchasing, installing, and configuring a SOHO router and 30 VoIP endpoints to allow for seamless communication with clients and vendors
+	- Migrated a critical database from legacy hardware to a Network Attached Storage solution to remove database access restrictions of 10 concurrent users and enable a strict and consistent backup policy
+	- Designed and developed macros implemented into the company's Excel-based order forms to reduce price change timelines from 2 weeks to 2 days
+	- Documented ongoing responsibilities, processes, and projects for future IT staff and administrators
+
+- **Technical Lead** @ *Encore (Formerly PSAV)* | Nashville, TN (July 2018 - June 2020)
+	- Led a team of 7 people from diverse backgrounds to successfully host, produce, and execute live events including charity galas, music industry conferences, and songwriting rounds
+	- Executed the setup and removal of live audio and visual equipment from large ballrooms while working under time constraints as short as 1 hour
+	- Created, updated, and maintained crucial infrastructure documentation that included network ports, IDF locations, and circuit layouts for the event space and surrounding areas
+
+## Education
+- **B.S. Cloud Computing** (September, 2026)
+	- Western Governors University | Salt Lake City, Utah
+
+## Certifications
+- **CompTIA A+** | October, 2022 
+- **CompTIA Network+** | February, 2023
+- **CompTIA Security+** | March, 2023
+- **CompTIA IT Operation Specialist** | February 2023
+- **CompTIA Sercure Infrastructure Specialist** | March, 2023
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam urna sem, consectetur a risus sit amet, mollis tempus orci. Morbi facilisis, nibh a varius faucibus, risus tellus feugiat lorem, a aliquet neque nisi sed tortor. Quisque porttitor in magna vitae venenatis. Aliquam vel tempus urna, vel consequat velit. Donec sagittis, nisi at cursus vestibulum, lacus ipsum aliquet erat, id euismod lorem sapien at felis. Vivamus auctor enim ut scelerisque viverra. Cras dignissim nisl in rutrum luctus. Sed ac magna faucibus lectus porttitor faucibus.
-
-Aenean non purus non tortor malesuada rutrum et ut nisi. Vestibulum ultrices nisl iaculis gravida tincidunt. Pellentesque ultrices lacinia est vel vestibulum. Vestibulum ligula dui, dapibus eu ultricies sed, ornare a augue. In euismod, purus ultricies facilisis lobortis, arcu urna tristique neque, nec pellentesque eros nisi non risus. Curabitur sodales lorem ut massa malesuada tempus. Curabitur orci nunc, commodo in lacinia et, eleifend at purus. Sed ac libero fringilla, commodo risus eu, dictum leo. Suspendisse vel est bibendum, faucibus ex sit amet, efficitur enim. Maecenas molestie iaculis arcu, quis vestibulum eros scelerisque in.
-
-Quisque elit massa, varius non dolor in, hendrerit porta mi. Ut commodo, augue molestie interdum mollis, est quam tincidunt enim, quis ornare purus sem quis lacus. Sed id augue sed turpis sollicitudin euismod. Aliquam nisi lorem, pellentesque sed sodales eget, imperdiet id lorem. Mauris vel gravida nisi. Curabitur commodo ultricies nisi in lacinia. Morbi est ex, dapibus sit amet lobortis vitae, dignissim tincidunt orci. Aliquam sit amet ligula magna.
-
-Nullam eu dictum lectus. Integer ut mi leo. Vestibulum ut ornare nibh. Morbi hendrerit ante et magna finibus, id fermentum sapien faucibus. Donec ultricies tristique velit, non malesuada justo auctor id. Sed lacinia semper velit sit amet posuere. Proin vel urna et velit congue imperdiet vel maximus elit.
-
-Nam fermentum eros a libero ullamcorper, sit amet consectetur augue fringilla. Duis eleifend vulputate ligula a viverra. Sed metus enim, pretium sit amet nibh nec, dictum maximus libero. Integer ac ipsum aliquet, faucibus erat vitae, malesuada neque. Vivamus urna dolor, laoreet lobortis interdum eu, placerat vulputate diam. Morbi eu tortor eu arcu mattis sodales nec a arcu. Nullam ultrices metus id nisi sollicitudin egestas. Cras faucibus convallis odio eget aliquet. Nam tempus ullamcorper pulvinar. Sed ac efficitur ex. Quisque accumsan eu urna in posuere. Maecenas ultricies, risus sit amet elementum mattis, arcu turpis accumsan orci, at faucibus massa dui vel ex. 
