@@ -2,6 +2,14 @@ html {
 	box-sizing: border-box;
 }
 
+body.dark {
+	--accent-color: #D0D066;
+	--background-color: #232425;
+	--text-color: #a9a9b3;
+	--button-text-color: #fff;
+	--nav-color: #1b1c1d;
+}
+
 li {
 	font-size: 16px;
 }
@@ -83,13 +91,7 @@ body {
 	
 }
 
-body.dark {
-	--accent-color: #D0D066;
-	--background-color: #232425;
-	--text-color: #a9a9b3;
-	--button-text-color: #fff;
-	--nav-color: #1b1c1d;
-}
+
 
 .footer {
 		height: 18;
