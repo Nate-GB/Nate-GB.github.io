@@ -40,7 +40,8 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 - **CompTIA Network+** | February, 2023
 - **CompTIA Security+** | March, 2023
 - **CompTIA IT Operation Specialist** | February 2023
-- **CompTIA Sercure Infrastructure Specialist** | March, 2023
+- **CompTIA Secure Infrastructure Specialist** | March, 2023
+- **LPI Linux Essentials** | April, 2023
 
 
 
