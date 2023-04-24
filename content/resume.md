@@ -42,11 +42,6 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 - **CompTIA IT Operation Specialist** | February 2023
 - **CompTIA Secure Infrastructure Specialist** | March, 2023
 - **LPI Linux Essentials** | April, 2023
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 1dec744f5536b2935830f36ddfd95814134a356b
 
 [Download Resume](./images/NGB%20Resume.pdf)
 
