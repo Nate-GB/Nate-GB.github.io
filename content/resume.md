@@ -10,7 +10,7 @@ nathangerardbowen@gmail.com | Murfreesboro, TN | https://www.linkedin.com/in/nat
 ---
 ## Professional Profile
 
-CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 years of experience in a hyrbid-cloud environment.  Skilled in efficient troubleshooting and effective communication.  Consistently commended for creative problemsolving and a willingness to go above and beyond.
+CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 years of experience in a hybrid-cloud environment.  Skilled in efficient troubleshooting and effective communication.  Consistently commended for creative problem solving and a willingness to go above and beyond.
 
 ## Professional Experience
 - **IT Specialist** @ *Rutherford County Library System* | Smyrna, TN (July 2021 - Present)
@@ -41,7 +41,11 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 - **CompTIA Security+** | March, 2023
 - **CompTIA IT Operation Specialist** | February 2023
 - **CompTIA Secure Infrastructure Specialist** | March, 2023
+<<<<<<< HEAD
 - **LPI Linux Essentials** | April, 2023
 
+=======
+>>>>>>> 1dec744f5536b2935830f36ddfd95814134a356b
 
+[Download Resume](./images/NGB%20Resume.pdf)
 
