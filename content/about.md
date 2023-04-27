@@ -14,4 +14,4 @@ In addition to my professional experience, I am pursuing a B.S. in Cloud Computi
 
 When I'm not working, you can find me cooking, playing music, and woodworking. I believe that having a healthy work-life balance is essential to my success, and I make it a priority to recharge my batteries so that I can come back to work refreshed and ready to take on new challenges.
 
-Thank you for taking the time to visit my digital resume. I hope that this platform gives you a comprehensive understanding of who I am and what I have to offer. If you have any questions or would like to discuss potential opportunities, please feel free to [send me an email.](mailto:nathangerardbowen@gmail.com) I look forward to hearing from you!
+Thank you for taking the time to visit my digital resume. I hope that this platform gives you a comprehensive understanding of who I am and what I have to offer. If you have any questions or would like to discuss potential opportunities, please feel free to [send me an email.](mailto:nathan@nategb.com) I look forward to hearing from you!

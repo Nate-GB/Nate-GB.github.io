@@ -5,7 +5,7 @@ weight: 3
 isResume: true
 ---
 # Nathan Gerard-Bowen
-nathangerardbowen@gmail.com | Murfreesboro, TN | https://www.linkedin.com/in/nathan-gb/
+nathan@nategb.com | Murfreesboro, TN | https://www.linkedin.com/in/nathan-gb/
 
 ---
 ## Professional Profile
