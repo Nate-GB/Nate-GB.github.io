@@ -39,9 +39,10 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 - **CompTIA A+** | October, 2022 
 - **CompTIA Network+** | February, 2023
 - **CompTIA Security+** | March, 2023
-- **CompTIA IT Operation Specialist** | February 2023
-- **CompTIA Secure Infrastructure Specialist** | March, 2023
+- **CompTIA Project+** | April 2023
 - **LPI Linux Essentials** | April, 2023
+- **CompTIA Cloud+** | May 2023
+- **AWS Cloud Practitioner** | May 2023
 
 [Download Resume](./images/NGB%20Resume.pdf)
 
