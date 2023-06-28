@@ -18,7 +18,7 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 	- Researched and implemented a Spiceworks internal ticketing and inventory management system that is heavily utilized across 5 geographically distinct locations
 	- Acquired and installed upgraded computer hardware to reduce computer boot times by half, drastically increasing availability of public resources for the community
 	- Designed and developed an automated script to enable staff to easily resolve public printing issues with the click of a button
-	- Implemented a cloud-printing solution to allows patrons to submit print jobs from off-site and pick them up from one of 3 locations
+	- Implemented a cloud-printing solution that allows patrons to submit print jobs from off-site and pick them up from one of 3 locations
 
 - **IT Administrator** @ *MaxSteel Buildings, LLC* | Murfreesboro, TN (June 2020 - July 2021)
 	- Established and maintained a VoIP network by researching, purchasing, installing, and configuring a SOHO router and 30 VoIP endpoints to allow for seamless communication with clients and vendors
@@ -43,6 +43,8 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 - **LPI Linux Essentials** | April, 2023
 - **CompTIA Cloud+** | May 2023
 - **AWS Cloud Practitioner** | May 2023
+- **Microsoft Azure Fundamentals** | Jun 2023
+- **AWS Solutions Architect Associate** | June 2023
 
 [Download Resume](./images/NGB%20Resume.pdf)
 
