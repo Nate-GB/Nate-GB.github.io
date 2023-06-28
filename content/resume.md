@@ -43,7 +43,7 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 - **LPI Linux Essentials** | April, 2023
 - **CompTIA Cloud+** | May 2023
 - **AWS Cloud Practitioner** | May 2023
-- **Microsoft Azure Fundamentals** | Jun 2023
+- **Microsoft Azure Fundamentals** | June 2023
 - **AWS Solutions Architect Associate** | June 2023
 
 [Download Resume](./images/NGB%20Resume.pdf)
