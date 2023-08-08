@@ -46,5 +46,5 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 - **Microsoft Azure Fundamentals** | June 2023
 - **AWS Solutions Architect Associate** | June 2023
 
-[Download Resume](./images/NGB%20Resume.pdf)
+[Download Resume](./images/NateGB%20Resume.pdf)
 
