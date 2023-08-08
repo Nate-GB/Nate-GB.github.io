@@ -32,15 +32,15 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 	- Created, updated, and maintained crucial infrastructure documentation that included network ports, IDF locations, and circuit layouts for the event space and surrounding areas
 
 ## Education
-- **B.S. Cloud Computing** (September, 2026)
+- **B.S. Cloud Computing** (August 2023)
 	- Western Governors University | Salt Lake City, Utah
 
 ## Certifications
-- **CompTIA A+** | October, 2022 
-- **CompTIA Network+** | February, 2023
-- **CompTIA Security+** | March, 2023
+- **CompTIA A+** | October 2022 
+- **CompTIA Network+** | February 2023
+- **CompTIA Security+** | March 2023
 - **CompTIA Project+** | April 2023
-- **LPI Linux Essentials** | April, 2023
+- **LPI Linux Essentials** | April 2023
 - **CompTIA Cloud+** | May 2023
 - **AWS Cloud Practitioner** | May 2023
 - **Microsoft Azure Fundamentals** | June 2023
