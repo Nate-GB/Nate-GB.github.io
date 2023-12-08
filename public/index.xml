@@ -5,37 +5,28 @@
     <link>https://nategb.com/</link>
     <description>Recent content in Digital Resume on NateGB Digital Resume</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nategb.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://nategb.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nathan Gerard-Bowen</title>
       <link>https://nategb.com/homepage/</link>
       <pubDate>Mon, 27 Mar 2023 16:11:43 -0500</pubDate>
-      
       <guid>https://nategb.com/homepage/</guid>
       <description>A Digital Resume and Personal Homepage</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://nategb.com/about/</link>
       <pubDate>Mon, 27 Mar 2023 16:12:04 -0500</pubDate>
-      
       <guid>https://nategb.com/about/</guid>
-      <description>Welcome to my digital resume! My name is Nathan Gerard-Bowen, and I&amp;rsquo;m excited to share with you my skills, experience, and passion for Information Technology through this platform.
-I am an Information Technology Specialist, with 3 years of experience in IT. Throughout my career, I have developed a deep understanding of Systems and Network Administration, and have honed my ability to quickly and efficiently find and resolve network and systems issues.</description>
+      <description>Welcome to my digital resume! My name is Nathan Gerard-Bowen, and I&amp;rsquo;m excited to share with you my skills, experience, and passion for Information Technology through this platform.&#xA;I am an Information Technology Specialist, with 3 years of experience in IT. Throughout my career, I have developed a deep understanding of Systems and Network Administration, and have honed my ability to quickly and efficiently find and resolve network and systems issues.</description>
     </item>
-    
     <item>
       <title>Resume</title>
       <link>https://nategb.com/resume/</link>
       <pubDate>Mon, 27 Mar 2023 16:11:55 -0500</pubDate>
-      
       <guid>https://nategb.com/resume/</guid>
-      <description>Nathan Gerard-Bowen nathangerardbowen@gmail.com | Murfreesboro, TN | https://www.linkedin.com/in/nathan-gb/
-Professional Profile CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 years of experience in a hybrid-cloud environment. Skilled in efficient troubleshooting and effective communication. Consistently commended for creative problem solving and a willingness to go above and beyond.
-Professional Experience IT Specialist @ Rutherford County Library System | Smyrna, TN (July 2021 - Present)
-Shifted 15 public-access machines from an internal domain network to a local workgroup for isolation and security purposes Researched and implemented a Spiceworks internal ticketing and inventory management system that is heavily utilized across 5 geographically distinct locations Acquired and installed upgraded computer hardware to reduce computer boot times by half, drastically increasing availability of public resources for the community Designed and developed an automated script to enable staff to easily resolve public printing issues with the click of a button Implemented a cloud-printing solution to allows patrons to submit print jobs from off-site and pick them up from one of 3 locations IT Administrator @ MaxSteel Buildings, LLC | Murfreesboro, TN (June 2020 - July 2021)</description>
+      <description>Nathan Gerard-Bowen nathan@nategb.com | Murfreesboro, TN | https://www.linkedin.com/in/nathan-gb/&#xA;Professional Profile CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 years of experience in a hybrid-cloud environment. Skilled in efficient troubleshooting and effective communication. Consistently commended for creative problem solving and a willingness to go above and beyond.&#xA;Professional Experience Enterprise Support Technician II | SmileDirectClub | Antioch, TN (October 2023 - December 2023)&#xA;Cultivated strong working relationships between different departments Became a Subject Matter Expert on specialized proprietary software within 2 months of being trained Led a technical training for a team of 30 people located locally and internationally Assisted in migrating manufacturing metric display boards from Windows-based compute sticks to Linux-based Raspberry Pi&amp;rsquo;s Triaged tickets and tracked assets utilizing ServiceNow IT Specialist @ Rutherford County Library System | Smyrna, TN (July 2021 - October 2023)</description>
     </item>
-    
   </channel>
 </rss>

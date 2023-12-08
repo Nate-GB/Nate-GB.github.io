@@ -65,6 +65,8 @@ body {
 			align-items: center;
 			max-width: 100%;
 			min-height: 100vh;
+			height: 100vh;
+			width: 100vw;
 			scroll-snap-align: start;
 			z-index: 1;
 			color: var(--text-color);

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/resume.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/resume.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/resume.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/resume.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07ea51b383a66091",
+  "active": "441745d333738c49",
   "lastOpenFiles": [
-    "content/images/NateGB Resume.pdf",
-    "content/images/NGB Resume.pdf",
-    "content/_index.md",
+    "content/about.md",
     "content/resume.md",
-    "content/homepage.md"
+    "content/homepage.md",
+    "content/_index.md",
+    "public/images/NateGB Resume.pdf",
+    "content/images/NateGB Resume.pdf",
+    "content/images/NGB Resume.pdf"
   ]
 }
