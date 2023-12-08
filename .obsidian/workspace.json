@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "441745d333738c49",
+  "active": "07ea51b383a66091",
   "lastOpenFiles": [
-    "content/homepage.md",
+    "content/images/NateGB Resume.pdf",
     "content/images/NGB Resume.pdf",
-    "content/resume.md"
+    "content/_index.md",
+    "content/resume.md",
+    "content/homepage.md"
   ]
 }

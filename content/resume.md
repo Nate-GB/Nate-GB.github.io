@@ -13,7 +13,14 @@ nathan@nategb.com | Murfreesboro, TN | https://www.linkedin.com/in/nathan-gb/
 CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 years of experience in a hybrid-cloud environment.  Skilled in efficient troubleshooting and effective communication.  Consistently commended for creative problem solving and a willingness to go above and beyond.
 
 ## Professional Experience
-- **IT Specialist** @ *Rutherford County Library System* | Smyrna, TN (July 2021 - Present)
+- **Enterprise Support Technician II** | SmileDirectClub | Antioch, TN (October 2023 - December 2023)
+	- Cultivated strong working relationships between different departments  
+	- Became a Subject Matter Expert on specialized proprietary software within 2 months of being trained  
+	- Led a technical training for a team of 30 people located locally and internationally  
+	- Assisted in migrating manufacturing metric display boards from Windows-based compute sticks to Linux-based Raspberry Pi's
+	- Triaged tickets and tracked assets utilizing ServiceNow
+
+- **IT Specialist** @ *Rutherford County Library System* | Smyrna, TN (July 2021 - October 2023)
 	- Shifted 15 public-access machines from an internal domain network to a local workgroup for isolation and security purposes
 	- Researched and implemented a Spiceworks internal ticketing and inventory management system that is heavily utilized across 5 geographically distinct locations
 	- Acquired and installed upgraded computer hardware to reduce computer boot times by half, drastically increasing availability of public resources for the community
@@ -45,6 +52,7 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 - **AWS Cloud Practitioner** | May 2023
 - **Microsoft Azure Fundamentals** | June 2023
 - **AWS Solutions Architect Associate** | June 2023
+- **Microsoft Azure Administrator Associate** | November 2023
 
 [Download Resume](./images/NateGB%20Resume.pdf)
 
