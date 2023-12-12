@@ -5,7 +5,7 @@ weight: 3
 isResume: true
 ---
 # Nathan Gerard-Bowen
-nathan@nategb.com | Murfreesboro, TN | https://www.linkedin.com/in/nathan-gb/
+nathan@nategb.com | Greater Nashville Area, TN | https://www.linkedin.com/in/nathan-gb/
 
 ---
 ## Professional Profile
@@ -14,11 +14,10 @@ CompTIA-certified IT Operations and Secure Infrastructure Specialist with 3 year
 
 ## Professional Experience
 - **Enterprise Support Technician II** | SmileDirectClub | Antioch, TN (October 2023 - December 2023)
-	- Cultivated strong working relationships between different departments  
-	- Became a Subject Matter Expert on specialized proprietary software within 2 months of being trained  
-	- Led a technical training for a team of 30 people located locally and internationally  
-	- Assisted in migrating manufacturing metric display boards from Windows-based compute sticks to Linux-based Raspberry Pi's
-	- Triaged tickets and tracked assets utilizing ServiceNow
+	- Managed a Microsoft Active Directory, ensuring workstations were placed in the correct OUs and the appropriate policies were being applied
+	- Led technical trainings for a team of 30 people located locally and internationally
+	- Utilized Microsoft Deployment Tool to reimage and deploy laptops and desktops to end users  
+	- Resolved 1,600 ServiceNow tickets of many different types, including desktop support, VPN connectivity, and CRM system errors
 
 - **IT Specialist** @ *Rutherford County Library System* | Smyrna, TN (July 2021 - October 2023)
 	- Shifted 15 public-access machines from an internal domain network to a local workgroup for isolation and security purposes

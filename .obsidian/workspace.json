@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97ccbbd6305c4f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/resume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/resume.md"
               }
             }
           }
@@ -146,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "441745d333738c49",
+  "active": "97ccbbd6305c4f33",
   "lastOpenFiles": [
-    "content/about.md",
-    "content/resume.md",
     "content/homepage.md",
+    "content/about.md",
     "content/_index.md",
+    "content/resume.md",
     "public/images/NateGB Resume.pdf",
     "content/images/NateGB Resume.pdf",
     "content/images/NGB Resume.pdf"
